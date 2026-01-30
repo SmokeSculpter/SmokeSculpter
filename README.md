@@ -33,7 +33,7 @@ I love creating solutions for real world problems and having fun while doing it!
 
 ###
 
-<h2 align="left">My Favorite Projects</h2>
+<h2 align="left">My Favorite Project</h2>
 
 ###
 
